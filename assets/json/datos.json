@@ -1,0 +1,14 @@
+{
+    "DatosPersonales": {
+        "Nombre": "Isaias",
+        "Apellido": "Balmaceda",
+        "Edad": "31",
+        "CC": "101006328",
+        "Telefono": "+57 3183979388",
+        "Email": "sisdetcol@gmail.com",
+        "Otros": {
+            "Profesion": "Ingeniero de Sistemas",
+            "Hobies": "Leer, Jugar, Dormir"
+        }
+    }
+}
